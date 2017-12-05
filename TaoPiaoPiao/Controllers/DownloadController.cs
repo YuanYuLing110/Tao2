@@ -13,5 +13,13 @@ namespace TaoPiaoPiao.Controllers
         {
             return View();
         }
+
+
+
+        public ActionResult Template()
+        {
+            return View();
+        }
+
     }
 }
